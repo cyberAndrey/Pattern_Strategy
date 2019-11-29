@@ -1,0 +1,7 @@
+C:\Users\cyberAndrey\Desktop\ТРПО\Pattern_Strategy\Pattern_Strategy\bin\Debug\Pattern_Strategy.exe.config
+C:\Users\cyberAndrey\Desktop\ТРПО\Pattern_Strategy\Pattern_Strategy\bin\Debug\Pattern_Strategy.exe
+C:\Users\cyberAndrey\Desktop\ТРПО\Pattern_Strategy\Pattern_Strategy\bin\Debug\Pattern_Strategy.pdb
+C:\Users\cyberAndrey\Desktop\ТРПО\Pattern_Strategy\Pattern_Strategy\obj\Debug\Pattern_Strategy.csprojAssemblyReference.cache
+C:\Users\cyberAndrey\Desktop\ТРПО\Pattern_Strategy\Pattern_Strategy\obj\Debug\Pattern_Strategy.csproj.CoreCompileInputs.cache
+C:\Users\cyberAndrey\Desktop\ТРПО\Pattern_Strategy\Pattern_Strategy\obj\Debug\Pattern_Strategy.exe
+C:\Users\cyberAndrey\Desktop\ТРПО\Pattern_Strategy\Pattern_Strategy\obj\Debug\Pattern_Strategy.pdb
